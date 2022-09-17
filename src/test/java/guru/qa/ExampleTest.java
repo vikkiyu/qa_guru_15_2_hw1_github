@@ -11,7 +11,7 @@ public class ExampleTest {
         Assertions.assertTrue(2 > 1);
     }
 
-    void exampleTest1(){
+    void exampleTest2(){
         Assertions.assertTrue(20 > 1);
     }
 }
