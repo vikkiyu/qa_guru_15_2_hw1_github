@@ -11,6 +11,7 @@ public class ExampleTest {
     }
 
     @Test
+
     void exampleTest2(){
         Assertions.assertTrue(20 > 1);
     }
