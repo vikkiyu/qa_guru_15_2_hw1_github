@@ -10,4 +10,8 @@ public class ExampleTest {
     void exampleTest(){
         Assertions.assertTrue(2 > 1);
     }
+
+    void exampleTest1(){
+        Assertions.assertTrue(20 > 1);
+    }
 }
